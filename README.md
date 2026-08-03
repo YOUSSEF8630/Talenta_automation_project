@@ -65,11 +65,4 @@ Put API keys in the **project root** `.env`. Never commit keys.
 
 ---
 
-## Team
-
-| Name | ID |
-|---|---|
-| Salsabel Osama Abd-Elhafiez | 2401249617 |
-| Mohamed Saad Ibrahim | 2401249732 |
-| Dalia Hossam eldeen | 2401245747 |
 
