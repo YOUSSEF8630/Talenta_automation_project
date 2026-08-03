@@ -1,0 +1,13 @@
+{
+  "previously_rejected_for_similar_role": true,
+  "already_in_pipeline_elsewhere": false,
+  "previous_applications": [
+    {
+      "role": "Finance Officer",
+      "status": "Rejected",
+      "year": 2023,
+      "reason": "Lack of management experience"
+    }
+  ],
+  "notes": "Previous rejection for senior role"
+}

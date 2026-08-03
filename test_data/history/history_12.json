@@ -1,0 +1,12 @@
+{
+  "previously_rejected_for_similar_role": false,
+  "already_in_pipeline_elsewhere": true,
+  "previous_applications": [
+    {
+      "role": "Frontend Developer",
+      "status": "In Progress",
+      "year": 2025
+    }
+  ],
+  "notes": "Currently in another process"
+}
