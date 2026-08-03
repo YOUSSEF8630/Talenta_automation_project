@@ -1,0 +1,36 @@
+{
+  "id": "cand_08",
+  "name": "Sara Mostafa",
+  "email": "sara.mostafa@email.com",
+  "location": "Alexandria, Egypt",
+  "education": [
+    {
+      "degree": "BSc in Computer Engineering",
+      "institution": "Alexandria University",
+      "year": 2020
+    }
+  ],
+  "experience_years": 4.0,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker",
+    "Redis",
+    "Git"
+  ],
+  "experience": [
+    {
+      "title": "Backend Developer",
+      "company": "CloudHub",
+      "period": "2021 - Present",
+      "duration_years": 4.0,
+      "responsibilities": [
+        "Develop backend APIs",
+        "Database optimization",
+        "Authentication services",
+        "Deploy Docker containers"
+      ]
+    }
+  ]
+}

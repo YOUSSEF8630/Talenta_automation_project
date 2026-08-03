@@ -1,0 +1,44 @@
+{
+  "id": "cand_11",
+  "name": "Karim Fouad",
+  "email": "karim.fouad@email.com",
+  "location": "Giza, Egypt",
+  "education": [
+    {
+      "degree": "BA in Business Administration",
+      "institution": "Ain Shams University",
+      "year": 2014
+    }
+  ],
+  "experience_years": 10.0,
+  "skills": [
+    "Talent Acquisition",
+    "Employer Branding",
+    "Interview Coordination",
+    "Applicant Tracking Systems",
+    "Recruitment Marketing"
+  ],
+  "experience": [
+    {
+      "title": "Senior Talent Acquisition Specialist",
+      "company": "Cairo Tech Solutions",
+      "period": "2016 - Present",
+      "duration_years": 8.0,
+      "responsibilities": [
+        "Lead high-volume recruitment campaigns for technical roles",
+        "Manage employer branding initiatives and recruitment marketing",
+        "Coordinate interview panels with hiring managers",
+        "Maintain applicant tracking system and sourcing pipelines"
+      ]
+    },
+    {
+      "title": "Recruitment Officer",
+      "company": "Cairo Tech Solutions",
+      "period": "2014 - 2016",
+      "duration_years": 2.0,
+      "responsibilities": [
+        "Screened CVs and scheduled candidate interviews"
+      ]
+    }
+  ]
+}

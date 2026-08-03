@@ -1,0 +1,42 @@
+{
+  "id": "cand_07",
+  "name": "Mohamed Hassan",
+  "email": "mohamed.hassan@email.com",
+  "location": "Cairo, Egypt",
+  "education": [
+    {
+      "degree": "BSc in Computer Science",
+      "institution": "Cairo University",
+      "year": 2018
+    }
+  ],
+  "experience_years": 6.0,
+  "skills": [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs",
+    "Git",
+    "Docker",
+    "CI/CD",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "experience": [
+    {
+      "title": "Senior Fullstack Developer",
+      "company": "Tech Solutions Egypt",
+      "period": "2020 - Present",
+      "duration_years": 5.0,
+      "responsibilities": [
+        "Developed scalable web applications using React and Node.js",
+        "Designed REST APIs",
+        "Managed MongoDB databases",
+        "Implemented CI/CD pipelines",
+        "Reviewed pull requests",
+        "Worked in Agile Scrum teams"
+      ]
+    }
+  ]
+}
